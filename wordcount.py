@@ -29,8 +29,7 @@ __author__ = "Nikal Morgan"
 """
 Demo Resources:
 setdefault()
-sorted( , key=lamda)
-def print_top
+sorted( , key=lambda)
 """
 
 import sys
